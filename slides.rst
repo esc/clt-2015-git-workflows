@@ -1,5 +1,5 @@
-Making slides with pandoc
-=========================
+Git-Workflows im Alltag
+=======================
 
 Lists
 -----
