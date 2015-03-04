@@ -1,6 +1,26 @@
 Git-Workflows im Alltag
 =======================
 
+Intro
+-----
+
+* Git-Workflows?
+
+.. raw:: pdf
+
+   \hspace{1cm}
+
+* Folge von Kommandos
+* Nutzung von Branches und Tags
+
+Was für Workflows
+-----------------
+
+* *push'n'pull*
+* *rebase'n'force-merge*
+* *github-workflow*
+* *gitflow*
+
 Lists
 -----
 
