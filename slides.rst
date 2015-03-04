@@ -17,9 +17,62 @@ Was für Workflows
 -----------------
 
 * *push'n'pull*
-* *rebase'n'force-merge*
 * *github-workflow*
+* *rebase'n'force-merge*
 * *gitflow*
+
+Push'n'Pull
+-----------
+
+* INSERT PICTURE
+
+Push'n'Pull
+-----------
+
+* Vorteile:
+
+  * Leicht zu erlernen
+  * Braucht nur wenige Kommandos
+
+* Nachteile:
+
+  * Git-History »unschön«
+  * Keine Feature-Branches
+  * »Merkwürdige« Merges (sog. *Diamond-Merges*)
+
+Github-Workflow
+---------------
+
+* Insert-Picture
+
+Github-Workflow
+---------------
+
+* Vorteile
+
+  * Leicht in Github Umzusetzen
+  * Feature-Branches
+
+* Nachteile
+
+  * History noch immer nicht 100% optimal
+
+Rebase'n'Force-Merge
+--------------------
+
+* Insert-Picture
+
+Rebase'n'Force-Merge
+--------------------
+
+* Vorteile
+
+  * History »wirklich« sauber
+
+* Nachteile
+
+  * Braucht Rebase (nicht immer machbar)
+
 
 Lists
 -----
