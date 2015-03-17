@@ -17,8 +17,8 @@ Was für Workflows
 -----------------
 
 * *push'n'pull*
-* *github-workflow*
 * *rebase'n'force-merge*
+* *github-workflow*
 * *gitflow*
 
 Push'n'Pull
