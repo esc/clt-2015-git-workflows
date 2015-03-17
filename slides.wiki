@@ -14,9 +14,60 @@
 * ''github-workflow''
 * ''gitflow''
 
-==== Push'n'Pull ====
+==== Push'n'pull Workflow ====
 
-TODO
+<[center]
+<<<images/push-pull.pdf, scale=0.15>>>
+[center]>
+
+<[columns]
+[[[ 5cm ]]]
+_blue_1._ Lokale Änderungen
+* @vim ''datei''@
+* @git add ''datei''@
+* @git commit -m "''msg''"@
+[[[ 5.5cm ]]]
+_blue_2._ Änderungen veröffentlichen
+* @git push@
+* Wenn @push@ fehlschlägt
+* @git pull@, dann @git push@
+% ** @git pull@
+% ** @git push@
+[columns]>
+
+==== Push'n'pull Workflow -- Resultat ====
+
+<[columns]
+[[[ 3cm ]]]
+<[center]
+<<<images/push-n-pull-result.pdf, scale=0.25>>>
+[center]>
+[[[ 7cm ]]]
+* Vorteile
+** Leicht für Anfänger
+** Nur weniger Kommandos
+--1cm--
+* Nachteile
+** Es entstehen Merge-Commits
+** »Aber wir arbeiten doch alle auf @master@?\!«
+** Rebase ist eine Option (für Anfänger?)
+[columns]>
+
+==== Push'n'pull Workflow -- Resultat mit @-{}-rebase@ ====
+
+<[columns]
+[[[ 3cm ]]]
+<[center]
+<<<images/push-n-pull-rebase-result.pdf, scale=0.25>>>
+[center]>
+[[[ 7cm ]]]
+* Vorteile
+** Keine Merge-Commits
+--1cm--
+* Nachteile
+** »Sinnloses« Linearisieren
+** Feature-Commits in zufälliger Reihenfolge
+[columns]>
 
 ==== Github-Workflow ====
 
