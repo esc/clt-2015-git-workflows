@@ -54,6 +54,11 @@ Push'n'Pull
 Push'n'Pull
 -----------
 
+.. image:: images/ppr006.pdf
+
+Push'n'Pull
+-----------
+
 * Vorteile:
 
   * Leicht zu erlernen
