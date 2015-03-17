@@ -1,128 +1,35 @@
-== Section 1 ==
+==== Intro ====
 
-==== Outline ====
+* Git-Workflows?
 
-\tableofcontents[currentsection]
+--1cm--
 
-==== slide 1 ====
+* Folge von Kommandos
+* Nutzung von Branches und Tags
 
-* bullet 1
-* bullet 2
-* bullet 3
+==== Was für Workflows ====
 
-==  Section 2 ==
+* ''push'n'pull''
+* ''rebase'n'force-merge''
+* ''github-workflow''
+* ''gitflow''
 
-==== Outline ====
+==== Push'n'Pull ====
 
-\tableofcontents[currentsection]
+TODO
 
-=== Subsection 1 ===
+==== Github-Workflow ====
 
-==== Outline ====
+TODO
 
-\tableofcontents[currentsection,currentsubsection]
+==== Rebase'n'Force-Merge ====
 
-==== Image Slide ====
+TODO
 
-<[center]
-    <<<images/python-logo.pdf, scale=0.40>>>
-[center]>
+==== Rebase'n'Force-Merge ====
 
-==== slide 2 ====
+TODO
 
-* bullet 1
-* bullet 2
-* bullet 3
+==== Gitflow ====
 
-=== Subsection 2 ===
-
-==== Outline ====
-
-\tableofcontents[currentsection,currentsubsection]
-
-==== Block ====
-
-<[block]{Block Title}
-Block contents
-[block]>
-
-==== Special Symbols ====
-
-* Tilde: \~{}
-* Tilde: \textasciitilde{}
-* Caret: \^{}
-* Hash: \#
-* Braces: \{\}
-* Dollar: \$
-* Double en: -{}-
-* At in Typewriter: {\tt stash@\{0\} }
-* Exclamation mark in alert: \alert{Attention!}
-
-or use: nowiki
-
-==== Correct Escapes  ====
-
-This only works with my patched version of wiki2beamer.
-
-* @HEAD \@ HEAD@
-* Attention\! Attention\!
-
-==== Verbatim ====[fragile]
-
-\begin{verbatim}
-
-wiki2beamer slides.wiki > slides.wiki.tex
-pdflatex slides.tex
-
-\end{verbatim}
-
-[frame]>
-
-==== Verbatim2 ====[containsverbatim]
-
-<[verbatim]
-
-wiki2beamer slides.wiki > slides.wiki.tex
-pdflatex slides.tex
-
-[verbatim]>
-
-==== Verbatim Block ====[containsverbatim]
-
-<[block]{Verbatim Block}
-<[verbatim]
-
-wiki2beamer slides.wiki > slides.wiki.tex
-pdflatex slides.tex
-
-[verbatim]>
-[block]>
-
-==== Code ====[containsverbatim]
-
-\begin{pycode}
-def python_func(arg):
-    print 'arg was: ', arg
-
-python_func('Hello World!")
-\end{pycode}
-
-==== Code from file ====
-
-\pyfile{code/code.py}
-
-==== Example ====
-
-<[example]
-    This is an example
-[example]>
-
-==== Conclusion ====
-
-* Open source tools used to make this presentation:
-** \href{http://wiki2beamer.sourceforge.net/}{Wiki2beamer}
-** \href{http://latex-beamer.sourceforge.net/}{\LaTeX beamer}
-** \href{http://projects.gnome.org/dia/}{Dia}
-** \href{http://pygments.org/}{Pygments}
-** \href{http://code.google.com/p/minted/}{Minted}
-** \href{https://bitbucket.org/john2x/solarized-pygment}{Solarized theme for pygments}
+TODO
