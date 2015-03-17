@@ -24,7 +24,7 @@ Was für Workflows
 Push'n'Pull
 -----------
 
-* INSERT PICTURE
+.. image:: images/push-pull.pdf
 
 Push'n'Pull
 -----------
