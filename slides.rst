@@ -26,6 +26,11 @@ Push'n'Pull
 
 .. image:: images/push-pull.pdf
 
+Push'n'Pull - Results
+---------------------
+
+.. image:: images/push-n-pull-result.pdf
+
 Push'n'Pull
 -----------
 
