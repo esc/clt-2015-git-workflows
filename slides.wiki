@@ -20,20 +20,22 @@
 <<<images/push-pull.pdf, scale=0.15>>>
 [center]>
 
+\begin{enumerate}
 <[columns]
 [[[ 5cm ]]]
-_blue_1._ Lokale Änderungen
+\item Lokale Änderungen
 * @vim ''datei''@
 * @git add ''datei''@
 * @git commit -m "''msg''"@
 [[[ 5.5cm ]]]
-_blue_2._ Änderungen veröffentlichen
+\item Änderungen veröffentlichen
 * @git push@
 * Wenn @push@ fehlschlägt
 * @git pull@, dann @git push@
 % ** @git pull@
 % ** @git push@
 [columns]>
+\end{enumerate}
 
 ==== Push'n'pull Workflow -- Resultat ====
 
@@ -79,23 +81,24 @@ _blue_2._ Änderungen veröffentlichen
 ==== Github-Flow ====
 
 <[center]
-<<<images/github-workflow.pdf, scale=0.3>>>
+<<<images/github-workflow.pdf, scale=0.25>>>
 [center]>
 
+\begin{enumerate}
 <[columns]
-[[[ 5.75cm ]]]
+[[[ 5.5cm ]]]
 '''Entwickler''': \\
-_cyan_1._ forkt ein Repository \\
-_cyan_2._ klont seinen Fork und macht Commits in einem Feature-Branch \\
-_cyan_3._ pusht den Feature-Branch in seinen Fork \\
-_cyan_4._ eröffnet einen Pull-Request \\
-[[[ 6cm ]]]
+\item forkt ein Repository \\
+\item klont seinen Fork und macht Commits in einem Feature-Branch \\
+\item pusht den Feature-Branch in seinen Fork \\
+\item eröffnet einen Pull-Request \\
+[[[ 5.5cm ]]]
 '''Autor''': \\
-_cyan_5._ fetcht den Feature-Branch und mergt ihn \\
-_cyan_6._ pusht ins Orginal \\
-'''oder''' \\
-_cyan_7._ mergt den Pull-Request über das Webinterface \\
+\item fetcht den Feature-Branch und mergt ihn \\
+\item pusht ins Orginal \\
+\item '''oder''': mergt den Pull-Request über das Webinterface \\
 [columns]>
+\end{enumerate}
 
 ==== Github-Flow -- Resultat ====
 
