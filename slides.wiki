@@ -69,9 +69,33 @@ _blue_2._ Änderungen veröffentlichen
 ** Feature-Commits in zufälliger Reihenfolge
 [columns]>
 
-==== Github-Workflow ====
+==== Github-Flow ====
 
-TODO
+* Geeignet für Github
+* Webinterface oder 'github' Kommandozeilenerweiterung
+* Nutzt Feature-Branches
+
+==== Github-Flow ====
+
+<[center]
+<<<images/github-workflow.pdf, scale=0.28>>>
+[center]>
+
+<[columns]
+[[[ 5.75cm ]]]
+'''Entwickler''': \\
+_cyan_1._ forkt ein Repository \\
+_cyan_2._ klont seinen Fork und macht Commits in einem Feature-Branch \\
+_cyan_3._ pusht den Feature-Branch in seinen Fork \\
+_cyan_4._ eröffnet einen Pull-Request \\
+[[[ 6cm ]]]
+'''Autor''': \\
+_cyan_5._ fetcht den Feature-Branch und mergt ihn \\
+_cyan_6._ pusht ins Orginal \\
+'''oder''' \\
+_cyan_7._ mergt den Pull-Request über das Webinterface \\
+[columns]>
+
 
 ==== Rebase'n'Force-Merge ====
 
