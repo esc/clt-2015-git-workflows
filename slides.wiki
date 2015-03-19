@@ -96,6 +96,21 @@ _cyan_6._ pusht ins Orginal \\
 _cyan_7._ mergt den Pull-Request über das Webinterface \\
 [columns]>
 
+==== Github-Flow -- Resultat ====
+
+<[columns]
+[[[ 3cm ]]]
+<[center]
+<<<images/githubflow-resultat.pdf, scale=0.20>>>
+[center]>
+[[[ 7cm ]]]
+* Vorteile
+** Feature-Branches
+--1cm--
+* Nachteile
+** Feature-Branches basieren vor dem Merge evtl. nicht auf dem aktuellsten Master
+** »Durcheinander«
+[columns]>
 
 ==== Rebase'n'Force-Merge ====
 
