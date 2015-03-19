@@ -112,6 +112,77 @@ _cyan_7._ mergt den Pull-Request über das Webinterface \\
 ** »Durcheinander«
 [columns]>
 
+==== Github-Flow -- Anmerkungen ====
+
+* Beim Merge von Pull-Requests wird der Merge-Commit automatisch forciert
+* Weitere Schritte vom Entwickler nötig
+** Feature-Branches löschen
+** Synchronisation vom @master@ im Fork mit Original
+
+==== Rebase 'n' Force-Merge Workflow ====
+
+<[center]
+<<<images/rebase-force.pdf, scale=0.17>>>
+[center]>
+
+==== Beschreibung der Schritte ====
+
+<[columns]
+[[[ 6.5cm ]]]
+\begin{enumerate}
+\item '''Repsoitory clonen:'''\\
+    @git clone <url>@
+\item '''Feature-Branch anlegen'''\\
+    @git checkout -b feature@
+\item '''Arbeiten:'''\\
+    @vim datei@\\
+    @git add@\\
+    @git commit@
+\item '''Getaene Arbeit hochladen'''\\
+    @\# beim ersten Mal@\\
+    @git push origin -u feature@\\
+    @git push@
+\item '''Lokalen @master@ aktualisieren:'''\\
+    @git checkout master@\\
+    @git pull@
+\end{enumerate}
+[[[ 6.5cm ]]]
+\begin{enumerate}
+\setcounter{enumi}{5}
+\item '''Rebase @feature@ auf @master@:'''\\
+    @git checkout feature@\\
+    @git rebase master@
+\item '''Forcierter Merge von @feature@:'''\\
+    @git checkout master@\\
+    @git merge -{}-no-ff feature@
+\item '''@master@  Hochladen:'''\\
+    @git push@
+\item '''Fehlschlag: Merge rückgängig:'''\\
+    @git reset -{}-hard HEAD\^@\\
+\item '''Erfolg: @feature@ löschen,\\lokal und remote:'''\\
+    @git branch -d feature@\\
+    @git push origin :feature@
+\end{enumerate}
+[columns]>
+
+==== Rebase 'n' Force-Merge -- Resultat ====
+
+<[columns]
+[[[ 3cm ]]]
+<[center]
+<<<images/rebase-n-force-result.pdf, scale=0.16>>>
+[center]>
+[[[ 7cm ]]]
+* Vorteile
+** Saubere history
+** Feature-Branches
+** Merges sinnvoll
+--1cm--
+* Nachteile
+** Verständnis von Git gebraucht
+** Mehrere Kommandos nötig
+[columns]>
+
 ==== Rebase'n'Force-Merge ====
 
 TODO
