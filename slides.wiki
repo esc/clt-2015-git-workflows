@@ -82,7 +82,7 @@
 ==== Github-Flow ====
 
 <[center]
-<<<images/github-workflow.pdf, scale=0.25>>>
+<<<images/githubflow.pdf, scale=0.25>>>
 [center]>
 
 \begin{enumerate}
