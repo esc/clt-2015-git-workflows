@@ -161,7 +161,7 @@ _cyan_7._ mergt den Pull-Request über das Webinterface \\
     @git reset -{}-hard HEAD\^@\\
 \item '''Erfolg: @feature@ löschen,\\lokal und remote:'''\\
     @git branch -d feature@\\
-    @git push origin :feature@
+    @git push origin --delete feature@
 \end{enumerate}
 [columns]>
 
