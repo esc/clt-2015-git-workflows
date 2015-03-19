@@ -187,13 +187,11 @@
 ** Mehrere Kommandos nötig
 [columns]>
 
-==== Rebase'n'Force-Merge ====
+==== Rebase 'n' Force-Merge -- Anmerkungen ====
 
-TODO
-
-==== Rebase'n'Force-Merge ====
-
-TODO
+* Kann auch im Github-Flow verwendet werden
+* Feature-Branches vor dem Merge des Pull-Request per Force-Push aktualisieren
+* Beim Merge von Pull-Requests wird der Merge-Commit automatisch forciert
 
 ==== Gitflow ====
 
