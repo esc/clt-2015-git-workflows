@@ -113,7 +113,7 @@
 ** Feature-Branches
 --1cm--
 * Nachteile
-** Feature-Branches basieren vor dem Merge evtl. nicht auf dem aktuellsten Master
+** Feature-Branches basieren vor dem Merge evtl. nicht auf dem aktuellen Master
 ** »Durcheinander«
 [columns]>
 
