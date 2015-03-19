@@ -78,7 +78,7 @@ _blue_2._ Änderungen veröffentlichen
 ==== Github-Flow ====
 
 <[center]
-<<<images/github-workflow.pdf, scale=0.28>>>
+<<<images/github-workflow.pdf, scale=0.3>>>
 [center]>
 
 <[columns]
