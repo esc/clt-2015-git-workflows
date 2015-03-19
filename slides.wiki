@@ -67,6 +67,7 @@ _blue_2._ Änderungen veröffentlichen
 * Nachteile
 ** »Sinnloses« Linearisieren
 ** Feature-Commits in zufälliger Reihenfolge
+** Konflikte beim Rebase?
 [columns]>
 
 ==== Github-Flow ====
