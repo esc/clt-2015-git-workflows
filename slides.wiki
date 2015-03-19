@@ -7,11 +7,12 @@
 * Folge von Kommandos
 * Nutzung von Branches und Tags
 
-==== Was für Workflows ====
+==== Was für Workflows? ====
 
 * ''push'n'pull''
-* ''rebase'n'force-merge''
+* ''push'n'pull mit rebase''
 * ''github-workflow''
+* ''rebase'n'force-merge''
 * ''gitflow''
 
 ==== Push'n'pull Workflow ====
