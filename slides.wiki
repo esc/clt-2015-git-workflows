@@ -140,8 +140,8 @@
     @git checkout -b feature@
 \item '''Arbeiten:'''\\
     @vim datei@\\
-    @git add@\\
-    @git commit@
+    @git add datei@\\
+    @git commit -m "<msg>"@
 \item '''Getaene Arbeit hochladen'''\\
     @\# beim ersten Mal@\\
     @git push origin -u feature@\\
