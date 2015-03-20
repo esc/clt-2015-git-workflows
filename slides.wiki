@@ -298,9 +298,18 @@
 * Rebase von Feature-Branches gegen Hotfixes
 * Alternative Merge-Route für @release@ und @hotfix@
 
-==== Manpage: Gitworflows ====
+==== Manpage: Gitworkflows ====
 
-TODO
+<[block]{}
+@man gitworkflows@
+[block]>
+
+--1cm--
+
+* Älteres Model
+* Ein wenig Info über @git.git@
+* Sammlung von Best-Practices
+* Vorschläge und Konzepte
 
 ==== Gerrit Workflow ====
 
