@@ -332,7 +332,6 @@
 * Triviale Commits auf @develop@?
 * Rebase 'n' Force-Merge auch hier möglich
 * Namensräume für Feature-Branches
-* Rebase von Feature-Branches gegen Hotfixes
 
 ==== Gitflow -- Erweiterung Nr. 1: @hotfix@ über @master@  ====
 
