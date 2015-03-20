@@ -73,6 +73,17 @@
 ** Konflikte beim Rebase?
 [columns]>
 
+==== Interlude: Darstellung von Git-Graphen ====
+
+* Bei mir:
+** Zeit läuft von unten nach oben
+** Wie bei Gitk, Eclipse, SourceTree etc...
+
+* Aber:
+** Mehrere Commits auf einer Zeile \\
+   (vereinfacht die Darstellung)
+** Bei Gitk, Eclipse, SourceTree ist das nicht so..
+
 ==== Github-Flow ====
 
 * Geeignet für Github
@@ -199,6 +210,20 @@
 <[center]
 <<<images/gitflow.pdf, scale=0.09>>>
 [center]>
+
+==== Gitflow -- @master@ und @develop@ ====
+
+<[columns]
+[[[ 3cm ]]]
+<[center]
+<<<images/gitflow-master-develop.pdf, scale=0.16>>>
+[center]>
+[[[ 7cm ]]]
+* Zwei langlebige Branches
+** @master@ --> Stabil/Produktion
+** @develop@ --> Instabil/Vorbereitung
+[columns]>
+
 
 ==== Manpage: Gitworflows ====
 
