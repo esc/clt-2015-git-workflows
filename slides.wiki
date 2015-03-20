@@ -269,6 +269,7 @@
 ==== Gitflow -- Anmerkungen ====
 
 * Alle merges sollten mit @-{}-no-ff@ passieren
+* Rebase 'n' Force-Merge auch hier möglich
 * Namensräume für Feature-Branches
 
 ==== Manpage: Gitworflows ====
