@@ -353,6 +353,18 @@
 
 ==== Gitflow -- Erweiterung Nr. 2: Release-Candidate-Tags auf @release@ ====
 
+<[columns]
+[[[ 4cm ]]]
+<[center]
+<<<images/gitflow-release-tags.eps, scale=0.17>>>
+[center]>
+[[[ 7cm ]]]
+* Release-Candidate-Tags auf @release@
+* Suffix: @-rc''N''@
+[ columns]>
+
+==== Gitflow -- Erweiterung Nr. 3: Rebase gegen @hotfix@  ====
+
 ==== Manpage: Gitworkflows ====
 
 <[block]{}
