@@ -219,6 +219,10 @@
 ** @release@ --> Letzte Releasearbeiten
 ** @hotfix@ --> Hotfixes
 
+--0.5cm--
+
+* \href{http://nvie.com/posts/a-successful-git-branching-model/}{http://nvie.com/posts/a-successful-git-branching-model/}
+
 ==== Gitflow ====
 
 <[center]
