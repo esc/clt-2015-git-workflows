@@ -462,6 +462,7 @@
 ** \href{http://wiki2beamer.sourceforge.net/}{Wiki2beamer}
 ** \href{http://latex-beamer.sourceforge.net/}{\LaTeX beamer}
 ** \href{http://projects.gnome.org/dia/}{Dia}
+** \href{http://blog.hartwork.org/?p=52}{ccBeamer}
 ** @make@, @vim@, @zsh@, @git@ usw...
 
 * \href{http://www.opensourceschool.de/schulungen/termine/Git/04-05-15}{Git-Schulungen in München (z.B. 04.-05.05.2015)}
