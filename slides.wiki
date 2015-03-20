@@ -1,3 +1,5 @@
+== Intro ==
+
 ==== Intro ====
 
 * Git-Workflows?
@@ -7,20 +9,15 @@
 * Folge von Kommandos
 * Nutzung von Branches und Tags
 
-==== Was für Workflows? ====
+==== Übersicht ====
+\tableofcontents
 
-* ''push'n'pull''
-* ''push'n'pull mit rebase''
-* ''github-workflow''
-* ''rebase'n'force-merge''
-* ''gitflow''
+== Push 'n' Pull ==
 
---0.25cm--
+==== Übersicht ====
+\tableofcontents[currentsection,currentsubsection]
 
-* ''man gitworkflows''
-* ''gerrit workflow''
-
-==== Push'n'pull Workflow ====
+==== Push 'n' Pull Workflow ====
 
 <[center]
 <<<images/push-pull.pdf, scale=0.15>>>
@@ -43,7 +40,7 @@
 [columns]>
 \end{enumerate}
 
-==== Push'n'pull Workflow -- Resultat ====
+==== Push 'n' Pull -- Resultat ====
 
 <[columns]
 [[[ 3cm ]]]
@@ -61,7 +58,7 @@
 ** Rebase ist eine Option (für Anfänger?)
 [columns]>
 
-==== Push'n'pull Workflow -- Resultat mit @-{}-rebase@ ====
+==== Push 'n' Pull -- Resultat mit @-{}-rebase@ ====
 
 <[columns]
 [[[ 3cm ]]]
@@ -93,6 +90,11 @@
 <[center]
 <<<images/graphs.pdf, scale=0.25>>>
 [center]>
+
+== Github-Flow ==
+
+==== Übersicht ====
+\tableofcontents[currentsection,currentsubsection]
 
 ==== Github-Flow ====
 
@@ -145,6 +147,11 @@
 * Weitere Schritte vom Entwickler nötig
 ** --> Feature-Branches löschen
 ** --> Synchronisation vom @master@ im Fork mit @master@ aus Original
+
+== Rebase 'n' Force-Merge ==
+
+==== Übersicht ====
+\tableofcontents[currentsection,currentsubsection]
 
 ==== Rebase 'n' Force-Merge Workflow ====
 
@@ -241,6 +248,11 @@
 * Kann auch im Github-Flow verwendet werden
 ** --> Feature-Branches vor dem Merge des Pull-Request per Force-Push aktualisieren
 ** --> Beim Merge von Pull-Requests wird der Merge-Commit automatisch forciert
+
+== Gitflow ==
+
+==== Übersicht ====
+\tableofcontents[currentsection,currentsubsection]
 
 ==== Gitflow ====
 
@@ -375,6 +387,12 @@
 * (Evtl. wurde der Hotfix per Cherry-Pick übertragen)
 [columns]>
 
+== Andere ==
+
+=== Gitworkflows ===
+
+==== Übersicht ====
+\tableofcontents[currentsection,currentsubsection]
 
 ==== Manpage: Gitworkflows ====
 
@@ -393,6 +411,11 @@
 
 * Keine Bilder :(
 
+=== Gerrit Workflow ===
+
+==== Übersicht ====
+\tableofcontents[currentsection,currentsubsection]
+
 ==== Gerrit Workflow ====
 
 * Hosting, Webinterface für Code-Review
@@ -405,6 +428,11 @@
 <[center]
 <<<images/gerrit.pdf, scale=0.4>>>
 [center]>
+
+== Outro ==
+
+==== Übersicht ====
+\tableofcontents[currentsection,currentsubsection]
 
 ==== Fazit ====
 
@@ -419,3 +447,5 @@
 ** für die eigenen Folien reicht auch ein @master@ (KISS)
 
 * Eigene Arbeitsweise Schritt für Schritt erweitern
+
+==== Fazit ====
