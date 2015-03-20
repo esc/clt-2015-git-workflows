@@ -99,15 +99,15 @@
 <[columns]
 [[[ 5.5cm ]]]
 '''Entwickler''': \\
-\item forkt ein Repository \\
-\item klont seinen Fork und macht Commits in einem Feature-Branch \\
-\item pusht den Feature-Branch in seinen Fork \\
-\item eröffnet einen Pull-Request \\
+\item Forkt ein Repository \\
+\item Klont seinen Fork und macht Commits in einem Feature-Branch \\
+\item Pusht den Feature-Branch in seinen Fork \\
+\item Eröffnet einen Pull-Request \\
 [[[ 5.5cm ]]]
 '''Autor''': \\
-\item fetcht den Feature-Branch und mergt ihn \\
-\item pusht ins Original \\
-\item '''oder''': mergt den Pull-Request über das Webinterface \\
+\item Fetcht den Feature-Branch und mergt ihn \\
+\item Pusht ins Original \\
+\item '''oder''': Mergt den Pull-Request über das Webinterface \\
 [columns]>
 \end{enumerate}
 
