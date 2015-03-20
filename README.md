@@ -57,6 +57,6 @@ $ $PDF_VIEWER slides.pdf
 
 ### Abhängigkeiten
 
-* Wiki2beamer (file: `wiki2beamer-0.9.2`) is licensed under Gnu Public Licence v2
+* Wiki2beamer (file: `wiki2beamer-0.9.4`) is licensed under Gnu Public Licence v2
 * Minted (file: `minted.sty`) is licensed under LaTeX Project Public License  version 1.3
 * ccBeamer (directory: `creative_commons/`) is licensed under Creative Commons Attribution-ShareAlike 3.0
