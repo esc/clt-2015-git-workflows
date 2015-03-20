@@ -342,11 +342,22 @@
 * Sammlung von Best-Practices
 * Vorschläge und Konzepte, e.g. »Throw-away-integration«
 
+--0.25cm--
+
+* Keine Bilder :(
+
 ==== Gerrit Workflow ====
 
-* Hosting, Webinterface und Code-Review
+* Hosting, Webinterface für Code-Review
+* Konzept: ''Pending Changes''
 * Eigener Workflow mit Feature-Branches und Automerging
 * Genutzt von Wikimedia, OpenStack und Android
+
+==== Gerrit Workflow ====
+
+<[center]
+<<<images/gerrit.pdf, scale=0.4>>>
+[center]>
 
 ==== Fazit ====
 
