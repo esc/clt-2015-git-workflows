@@ -196,4 +196,14 @@
 
 ==== Gitflow ====
 
+<[center]
+<<<images/gitflow.pdf, scale=0.09>>>
+[center]>
+
+==== Manpage: Gitworflows ====
+
+TODO
+
+==== Gerrit Workflow ====
+
 TODO
