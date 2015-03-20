@@ -1,7 +1,7 @@
 # Git Workflows im Alltag
 
 [Vortrag](https://chemnitzer.linux-tage.de/2015/de/programm/beitrag/306) auf
-den [Chemnitzer Linux Tagen](https://chemnitzer.linux-tage.de/2015/en)
+den [Chemnitzer Linux Tagen 2015](https://chemnitzer.linux-tage.de/2015/en)
 
 ## Beschreibung
 
