@@ -340,7 +340,7 @@
 
 ==== Gitflow -- Anmerkungen ====
 
-* Alle merges sollten mit @-{}-no-ff@ passieren
+* Alle Merges sollten mit @-{}-no-ff@ passieren
 * Triviale Commits auf @develop@?
 * Rebase 'n' Force-Merge auch hier möglich
 * Namensräume für Feature-Branches
