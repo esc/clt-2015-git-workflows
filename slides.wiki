@@ -176,7 +176,7 @@
     @git reset -{}-hard HEAD\^@\\
 \item '''Erfolg: @feature@ löschen,\\lokal und remote:'''\\
     @git branch -d feature@\\
-    @git push origin --delete feature@
+    @git push origin -{}-delete feature@
 \end{enumerate}
 [columns]>
 
