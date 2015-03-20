@@ -245,7 +245,9 @@
 [center]>
 [[[ 7cm ]]]
 * Neue Features werden hier entwickelt
-* Zweigen von @develop@ ab und werden wieder dorthin gemergt
+* Zweigen ab von @develop@
+* Werded gemert nach @develop@
+* Wenn fertig --> löschen nicht vergessen!
 [columns]>
 
 ==== Gitflow -- @release@ ====
