@@ -329,10 +329,29 @@
 ==== Gitflow -- Anmerkungen ====
 
 * Alle merges sollten mit @-{}-no-ff@ passieren
+* Triviale Commits auf @develop@?
 * Rebase 'n' Force-Merge auch hier möglich
 * Namensräume für Feature-Branches
 * Rebase von Feature-Branches gegen Hotfixes
-* Alternative Merge-Route für @release@ und @hotfix@
+
+==== Gitflow -- Erweiterung Nr. 1: @hotfix@ über @master@  ====
+
+<[columns]
+[[[ 4cm ]]]
+<[center]
+<<<images/gitflow-hotfix-alternate.eps, scale=0.18>>>
+[center]>
+[[[ 7cm ]]]
+* Unterschiedliche »Erreichbarkeit«
+* @git describe@
+--0.25cm--
+* Alt/Grau --> @v0.1-5-g<sha1>@
+* Neu/Schwarz --> @v0.2-2-g<sha1>@
+--0.25cm--
+* Gilt auch für @release@
+[columns]>
+
+==== Gitflow -- Erweiterung Nr. 2: Release-Candidate-Tags auf @release@ ====
 
 ==== Manpage: Gitworkflows ====
 
