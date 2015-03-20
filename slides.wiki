@@ -182,6 +182,18 @@
 \end{enumerate}
 [columns]>
 
+==== Rebase 'n' Force-Merge -- Force-Merge ====
+
+<[columns]
+[[[ 5cm ]]]
+<<<images/merge-no-ff.pdf, scale=0.25>>>
+
+[[[ 5cm ]]]
+* Fast-Forward vermeiden
+--0.25cm--
+* Merge-Commit erzwingen
+[columns]>
+
 ==== Rebase 'n' Force-Merge -- Resultat ====
 
 <[columns]
