@@ -462,10 +462,7 @@
 ** \href{http://wiki2beamer.sourceforge.net/}{Wiki2beamer}
 ** \href{http://latex-beamer.sourceforge.net/}{\LaTeX beamer}
 ** \href{http://projects.gnome.org/dia/}{Dia}
-** \href{http://pygments.org/}{Pygments}
-** \href{http://code.google.com/p/minted/}{Minted}
-** \href{https://bitbucket.org/john2x/solarized-pygment}{Solarized theme for pygments}
-** @make@, @vim@, @zsh@ usw...
+** @make@, @vim@, @zsh@, @git@ usw...
 
-* \href{http://www.opensourceschool.de/schulungen/termine/Git/04-05-15}{Git-Schulungen in München}
+* \href{http://www.opensourceschool.de/schulungen/termine/Git/04-05-15}{Git-Schulungen in München (z.B. 04.-05.05.2015)}
 * Unser Git-Buch: \href{http://gitbu.ch}{http://gitbu.ch}
