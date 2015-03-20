@@ -80,8 +80,7 @@
 ** Wie bei Gitk, Eclipse, SourceTree etc...
 
 * Aber:
-** Mehrere Commits auf einer Zeile \\
-   (vereinfacht die Darstellung)
+** Mehrere Commits auf einer Zeile \\ (vereinfacht die Darstellung)
 ** Bei Gitk, Eclipse, SourceTree ist das nicht so..
 
 ==== Github-Flow ====
