@@ -376,7 +376,7 @@
 --1cm--
 
 * Älteres Model
-* Ein wenig Info über @git.git@
+* Info über @git.git@
 * Sammlung von Best-Practices
 * Vorschläge und Konzepte, e.g. »Throw-away-integration«
 
