@@ -43,7 +43,7 @@
 <[columns]
 [[[ 3cm ]]]
 <[center]
-<<<images/push-n-pull-result.pdf, scale=0.25>>>
+<<<images/push-n-pull-result.pdf, scale=0.22>>>
 [center]>
 [[[ 7cm ]]]
 * Vorteile
@@ -142,6 +142,7 @@
 
 ==== Beschreibung der Schritte ====
 
+\small
 <[columns]
 [[[ 6.5cm ]]]
 \begin{enumerate}
@@ -185,7 +186,7 @@
 <[columns]
 [[[ 3cm ]]]
 <[center]
-<<<images/rebase-n-force-result.pdf, scale=0.16>>>
+<<<images/rebase-n-force-result.pdf, scale=0.15>>>
 [center]>
 [[[ 7cm ]]]
 * Vorteile
@@ -223,6 +224,12 @@
 <<<images/gitflow.pdf, scale=0.09>>>
 [center]>
 
+==== Gitflow -- @pdftk gitflow.pdf cat 1E output gitflow-rotated.pdf@ ====
+
+<[center]
+<<<images/gitflow-rotated.pdf, scale=0.15>>>
+[center]>
+
 ==== Gitflow -- @master@ und @develop@ ====
 
 <[columns]
@@ -255,7 +262,7 @@
 <[columns]
 [[[ 4cm ]]]
 <[center]
-<<<images/gitflow-release.eps, scale=0.18>>>
+<<<images/gitflow-release.eps, scale=0.17>>>
 [center]>
 [[[ 7cm ]]]
 * Release-Vorbereitung
