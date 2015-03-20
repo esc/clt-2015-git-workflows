@@ -39,6 +39,15 @@ Valentin Haenel <<valentin@haenel.co>>
 * [Minted](http://code.google.com/p/minted/) (inkludiert)
 * [ccBeamer] (http://blog.hartwork.org/?p=52) (inkludiert)
 
+## Bauen
+
+```
+$ git clone https://github.com/esc/clt-2015-git-workflows.git
+$ cd clt-2015-git-workflows
+$ make
+$ $PDF_VIEWER slides.pdf
+```
+
 ## Lizenz
 
 ### Inhalt
