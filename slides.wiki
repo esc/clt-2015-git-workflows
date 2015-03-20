@@ -448,4 +448,24 @@
 
 * Eigene Arbeitsweise Schritt für Schritt erweitern
 
-==== Fazit ====
+==== Fragen? ====
+
+* Quellen:
+** \href{https://github.com/esc/clt-2015-git-workflows}{https://github.com/esc/clt-2015-git-workflows}
+
+* Danke:
+** Julius Plenz für Anregungen und Ideen
+** Jens Kubieziel für das erste Patch
+
+
+* Alles mit Open-Source gemacht!
+** \href{http://wiki2beamer.sourceforge.net/}{Wiki2beamer}
+** \href{http://latex-beamer.sourceforge.net/}{\LaTeX beamer}
+** \href{http://projects.gnome.org/dia/}{Dia}
+** \href{http://pygments.org/}{Pygments}
+** \href{http://code.google.com/p/minted/}{Minted}
+** \href{https://bitbucket.org/john2x/solarized-pygment}{Solarized theme for pygments}
+** @make@, @vim@, @zsh@ usw...
+
+* \href{http://www.opensourceschool.de/schulungen/termine/Git/04-05-15}{Git-Schulungen in München}
+* Unser Git-Buch: \href{http://gitbu.ch}{http://gitbu.ch}
