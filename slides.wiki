@@ -236,6 +236,21 @@
 ** @develop@ --> Instabil/Vorbereitung
 [columns]>
 
+==== Gitflow -- Feature-Branches ====
+
+<[columns]
+[[[ 3cm ]]]
+<[center]
+<<<images/gitflow-feature-branches.pdf, scale=0.18>>>
+[center]>
+[[[ 7cm ]]]
+* Neue Features werden hier entwickelt
+* Zweigen von @develop@ ab und werden wieder dorthin gemergt
+[columns]>
+
+==== Gitflow -- Anmerkungen ====
+
+* Alle merges sollten mit @-{}-no-ff@ passieren
 
 ==== Manpage: Gitworflows ====
 
