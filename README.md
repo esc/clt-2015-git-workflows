@@ -20,6 +20,11 @@ Flexibilität von Git ­ an die eigene Arbeitsweise angepasst werden können.
 Zuletzt gibt es noch einige Vorschläge, mit denen die Standard-Workflows
 optimiert und verbessert werden könnten.
 
+## PDFs
+
+Fertige PDFs sind unter
+[https://github.com/esc/clt-2015-git-workflows/tree/master/pdfs](https://github.com/esc/clt-2015-git-workflows/tree/master/pdfs)
+
 ## Autor
 
 Valentin Haenel <<valentin@haenel.co>>
