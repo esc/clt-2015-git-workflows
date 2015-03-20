@@ -1,4 +1,5 @@
 #!/bin/bash
+# Example repository for the slide about graphs
 git init ${REPO_ROOT}graph
 cd ${REPO_ROOT}graph
 git commit --allow-empty -m "blue"
