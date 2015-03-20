@@ -12,14 +12,13 @@ bestimmten Fragen: wie sollen wir eigentlich arbeiten? Wie gehen wir mit
 Branches um?
 
 Dieser Vortrag stellt die zwei gängigsten Git-Workflows vor: den
-leichtgewichtigen Github-Workflow [1] und das Prozess-Orientierte Gitflow [2]
-Modell. Des weitern werden Anregungen eingebracht, wie diese Workflows ­ dank
-der starken Flexibilität von Git ­ an die eigene Arbeitsweise angepasst werden
-können.  Zuletzt gibt es noch einige Vorschläge, mit denen die
-Standard-Workflows optimiert und verbessert werden könnten.
-
-[1] https://guides.github.com/introduction/flow/index.html
-[2] https://github.com/nvie/gitflow
+leichtgewichtigen
+[Github-Workflow](https://guides.github.com/introduction/flow/index.html) und
+das Prozess-Orientierte [Gitflow](https://github.com/nvie/gitflow) Modell. Des
+weitern werden Anregungen eingebracht, wie diese Workflows ­ dank der starken
+Flexibilität von Git ­ an die eigene Arbeitsweise angepasst werden können.
+Zuletzt gibt es noch einige Vorschläge, mit denen die Standard-Workflows
+optimiert und verbessert werden könnten.
 
 ## Autor
 
