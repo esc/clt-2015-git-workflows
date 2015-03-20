@@ -248,6 +248,22 @@
 * Zweigen von @develop@ ab und werden wieder dorthin gemergt
 [columns]>
 
+==== Gitflow -- @release@ ====
+
+<[columns]
+[[[ 4cm ]]]
+<[center]
+<<<images/gitflow-release.eps, scale=0.18>>>
+[center]>
+[[[ 7cm ]]]
+* Release-Vorbereitung
+* Letzte typo fixes
+* Changelog etc..
+* Wichtige Änderungen --> @develop@
+* Wenn fertig --> @master@ und @develop@
+* Tags werden auf @master@ gesetzt
+[columns]>
+
 ==== Gitflow -- Anmerkungen ====
 
 * Alle merges sollten mit @-{}-no-ff@ passieren
