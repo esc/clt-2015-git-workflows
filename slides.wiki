@@ -96,7 +96,7 @@
 [[[ 5.5cm ]]]
 '''Autor''': \\
 \item fetcht den Feature-Branch und mergt ihn \\
-\item pusht ins Orginal \\
+\item pusht ins Original \\
 \item '''oder''': mergt den Pull-Request über das Webinterface \\
 [columns]>
 \end{enumerate}
