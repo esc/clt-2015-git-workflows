@@ -31,9 +31,10 @@ Valentin Haenel <<valentin@haenel.co>>
 
 ## Abhängigkeiten
 
-* [wiki2beamer](http://wiki2beamer.sourceforge.net/) (inkludiert)
-* [LaTeX Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home)
+* Python
 * [Pygments](http://pygments.org/)
+* [LaTeX Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home)
+* [wiki2beamer](http://wiki2beamer.sourceforge.net/) (inkludiert)
 * [Solarized Theme for Pygments](https://bitbucket.org/john2x/solarized-pygment/src/b9455fbdc902/solarized.py) (inkludiert)
 * [Minted](http://code.google.com/p/minted/) (inkludiert)
 * [ccBeamer] (http://blog.hartwork.org/?p=52) (inkludiert)
