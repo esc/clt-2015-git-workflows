@@ -212,7 +212,7 @@
 <[columns]
 [[[ 3cm ]]]
 <[center]
-<<<images/rebase-n-force-result.pdf, scale=0.15>>>
+<<<images/rebase-n-force-result.pdf, scale=0.14>>>
 [center]>
 [[[ 7cm ]]]
 * Vorteile
