@@ -206,6 +206,19 @@
 
 ==== Gitflow ====
 
+* Großflächiges Branch-Modell
+
+--0.5cm--
+
+* Branches
+** @master@ --> Stabil/Produktion
+** @develop@ --> Instabil/Vorbereitung
+** @feature@ --> Feature-Entwicklung
+** @release@ --> Letzte Releasearbeiten
+** @hotfix@ --> Hotfixes
+
+==== Gitflow ====
+
 <[center]
 <<<images/gitflow.pdf, scale=0.09>>>
 [center]>
