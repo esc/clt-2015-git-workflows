@@ -92,9 +92,10 @@
 ==== Github-Flow ====
 
 <[center]
-<<<images/githubflow.pdf, scale=0.25>>>
+<<<images/githubflow.pdf, scale=0.27>>>
 [center]>
 
+\small
 \begin{enumerate}
 <[columns]
 [[[ 5.5cm ]]]
