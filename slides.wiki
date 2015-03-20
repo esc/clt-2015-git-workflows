@@ -266,6 +266,18 @@
 * Tags werden auf @master@ gesetzt
 [columns]>
 
+==== Gitflow -- @hotfix@ ====
+
+<[columns]
+[[[ 4cm ]]]
+<[center]
+<<<images/gitflow-hotfix.eps, scale=0.18>>>
+[center]>
+[[[ 7cm ]]]
+* Security kritische fixes --> Produktion
+* Mergt auch --> @develop@
+[columns]>
+
 ==== Gitflow -- Anmerkungen ====
 
 * Alle merges sollten mit @-{}-no-ff@ passieren
