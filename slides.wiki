@@ -192,6 +192,19 @@
 * Fast-Forward vermeiden
 --0.25cm--
 * Merge-Commit erzwingen
+--0.25cm--
+* Merge-Commit als »sinvolle« Markierung
+[columns]>
+
+==== Rebase 'n' Force-Merge -- Rebase ====
+
+<[columns]
+[[[ 5cm ]]]
+<<<images/rebase.pdf, scale=0.25>>>
+
+[[[ 5cm ]]]
+* »Auf eine neue Basis stellen«
+* Integration von Änderungen aus @master@
 [columns]>
 
 ==== Rebase 'n' Force-Merge -- Resultat ====
