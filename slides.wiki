@@ -145,7 +145,7 @@
 <[columns]
 [[[ 6.5cm ]]]
 \begin{enumerate}
-\item '''Repsoitory clonen:'''\\
+\item '''Repository clonen:'''\\
     @git clone <url>@
 \item '''Feature-Branch anlegen'''\\
     @git checkout -b feature@
@@ -153,7 +153,7 @@
     @vim datei@\\
     @git add datei@\\
     @git commit -m "<msg>"@
-\item '''Getaene Arbeit hochladen'''\\
+\item '''Getane Arbeit hochladen'''\\
     @\# beim ersten Mal@\\
     @git push origin -u feature@\\
     @git push@
