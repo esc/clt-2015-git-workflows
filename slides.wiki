@@ -313,4 +313,7 @@
 
 ==== Gerrit Workflow ====
 
-TODO
+* Hosting, Webinterface und Code-Review
+* Eigener Workflow mit Feature-Branches und Automerging
+* Genutzt von Wikimedia, OpenStack und Android
+
