@@ -121,8 +121,8 @@
 
 * Beim Merge von Pull-Requests wird der Merge-Commit automatisch forciert
 * Weitere Schritte vom Entwickler nötig
-** Feature-Branches löschen
-** Synchronisation vom @master@ im Fork mit Original
+** --> Feature-Branches löschen
+** --> Synchronisation vom @master@ im Fork mit @master@ aus Original
 
 ==== Rebase 'n' Force-Merge Workflow ====
 
@@ -191,8 +191,8 @@
 ==== Rebase 'n' Force-Merge -- Anmerkungen ====
 
 * Kann auch im Github-Flow verwendet werden
-* Feature-Branches vor dem Merge des Pull-Request per Force-Push aktualisieren
-* Beim Merge von Pull-Requests wird der Merge-Commit automatisch forciert
+** --> Feature-Branches vor dem Merge des Pull-Request per Force-Push aktualisieren
+** --> Beim Merge von Pull-Requests wird der Merge-Commit automatisch forciert
 
 ==== Gitflow ====
 
