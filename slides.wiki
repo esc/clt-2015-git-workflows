@@ -365,6 +365,16 @@
 
 ==== Gitflow -- Erweiterung Nr. 3: Rebase gegen @hotfix@  ====
 
+<[columns]
+[[[ 4cm ]]]
+<[center]
+<<<images/gitflow-rebase-feature.pdf, scale=0.17>>>
+[center]>
+[[[ 7cm ]]]
+* Hotfixes per @rebase@ in Feature-Branches integrieren
+* Hier mit der alternativen Merge-Route
+* (Evtl. wurde der Hotfix per Cherry-Pick übertragen)
+[columns]>
 
 
 ==== Manpage: Gitworkflows ====
