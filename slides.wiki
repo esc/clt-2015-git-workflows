@@ -283,6 +283,8 @@
 * Alle merges sollten mit @-{}-no-ff@ passieren
 * Rebase 'n' Force-Merge auch hier möglich
 * Namensräume für Feature-Branches
+* Rebase von Feature-Branches gegen Hotfixes
+* Alternative Merge-Route für @release@ und @hotfix@
 
 ==== Manpage: Gitworflows ====
 
