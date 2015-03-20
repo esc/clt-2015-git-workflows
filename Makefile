@@ -1,5 +1,5 @@
 base = slides
-slidefilename = NAME
+slidefilename = haenel-clt-2015-git-workflows
 
 .PHONY: git-sha slides.pdf
 
