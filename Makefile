@@ -1,7 +1,7 @@
 base = slides
 slidefilename = NAME
 
-.PHONY: git-sha
+.PHONY: git-sha slides.pdf
 
 all: $(base).pdf
 
