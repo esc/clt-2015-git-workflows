@@ -83,6 +83,12 @@
 ** Mehrere Commits auf einer Zeile \\ (vereinfacht die Darstellung)
 ** Bei Gitk, Eclipse, SourceTree ist das nicht so..
 
+==== Interlude: Darstellung von Git-Graphen ====
+
+<[center]
+<<<images/graphs.pdf, scale=0.25>>>
+[center]>
+
 ==== Github-Flow ====
 
 * Geeignet für Github
