@@ -342,3 +342,16 @@
 * Eigener Workflow mit Feature-Branches und Automerging
 * Genutzt von Wikimedia, OpenStack und Android
 
+==== Fazit ====
+
+* In der Praxis macht sowieso jeder was er will
+** --> nicht ärgern ;-)
+
+--0.25cm--
+
+* Nutzt Feature-Branches\!\!\!
+
+* Projketgröße? 
+** für die eigenen Folien reicht auch ein @master@ (KISS)
+
+* Eigene Arbeitsweise Schritt für Schritt erweitern
