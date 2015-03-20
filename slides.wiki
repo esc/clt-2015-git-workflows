@@ -15,6 +15,11 @@
 * ''rebase'n'force-merge''
 * ''gitflow''
 
+--0.25cm--
+
+* ''man gitworkflows''
+* ''gerrit workflow''
+
 ==== Push'n'pull Workflow ====
 
 <[center]
