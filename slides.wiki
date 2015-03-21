@@ -33,7 +33,7 @@
 [[[ 5.5cm ]]]
 \item Änderungen veröffentlichen
 * @git push@
-* Wenn @push@ fehlschlägt
+* Wenn @push@ fehlschlägt:
 * @git pull@, dann @git push@
 % ** @git pull@
 % ** @git push@
@@ -319,7 +319,7 @@
 [center]>
 [[[ 7cm ]]]
 * Release-Vorbereitung
-* Letzte typo fixes
+* Letzte Typo-Fixes
 * Changelog etc..
 * Wichtige Änderungen --> @develop@
 * Wenn fertig --> @master@ und @develop@
@@ -334,7 +334,7 @@
 <<<images/gitflow-hotfix.eps, scale=0.18>>>
 [center]>
 [[[ 7cm ]]]
-* Security kritische fixes --> Produktion
+* Security-kritische Fixes --> Produktion
 * Mergt auch --> @develop@
 [columns]>
 
@@ -443,7 +443,7 @@
 
 * Nutzt Feature-Branches\!\!\!
 
-* Projketgröße? 
+* Projektgröße?
 ** für die eigenen Folien reicht auch ein @master@ (KISS)
 
 * Eigene Arbeitsweise Schritt für Schritt erweitern
@@ -465,5 +465,5 @@
 ** \href{http://blog.hartwork.org/?p=52}{ccBeamer}
 ** @make@, @vim@, @zsh@, @git@ usw...
 
-* \href{http://www.opensourceschool.de/schulungen/termine/Git/04-05-15}{Git-Schulungen in München (z.B. 04.-05.05.2015)}
+* \href{http://www.opensourceschool.de/schulungen/termine/Git/04-05-15}{Git-Schulungen in München (z.B. 04.--05.05.2015)}
 * Unser Git-Buch: \href{http://gitbu.ch}{http://gitbu.ch}
