@@ -308,7 +308,7 @@
 [[[ 7cm ]]]
 * Neue Features werden hier entwickelt
 * Zweigen ab von @develop@
-* Werded gemert nach @develop@
+* Werden gemergt nach @develop@
 * Wenn fertig --> löschen nicht vergessen!
 [columns]>
 
