@@ -458,6 +458,7 @@
 * Danke:
 ** Julius Plenz für Anregungen, Ideen und Patches
 ** Jens Kubieziel für das erste Patch
+** DeX77 für einen Typo-Fix
 
 
 * Alles mit Open-Source gemacht!
