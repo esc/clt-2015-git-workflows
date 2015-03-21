@@ -455,7 +455,7 @@
 ** \href{https://github.com/esc/clt-2015-git-workflows}{https://github.com/esc/clt-2015-git-workflows}
 
 * Danke:
-** Julius Plenz für Anregungen und Ideen
+** Julius Plenz für Anregungen, Ideen und Patches
 ** Jens Kubieziel für das erste Patch
 
 
