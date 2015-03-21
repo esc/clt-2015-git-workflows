@@ -210,6 +210,7 @@
 * Fast-Forward vermeiden
 --0.25cm--
 * Merge-Commit erzwingen
+** Nur so kann @git revert@ einen Merge rückgängig machen
 --0.25cm--
 * Merge-Commit als »sinvolle« Markierung
 [columns]>
@@ -320,7 +321,7 @@
 [[[ 7cm ]]]
 * Release-Vorbereitung
 * Letzte Typo-Fixes
-* Changelog etc..
+* Changelog, Version-Bump etc…
 * Wichtige Änderungen --> @develop@
 * Wenn fertig --> @master@ und @develop@
 * Tags werden auf @master@ gesetzt
@@ -444,7 +445,7 @@
 * Nutzt Feature-Branches\!\!\!
 
 * Projektgröße?
-** für die eigenen Folien reicht auch ein @master@ (KISS)
+** Für diese Folien reichte ein einzelner @master@ (KISS)
 
 * Eigene Arbeitsweise Schritt für Schritt erweitern
 
