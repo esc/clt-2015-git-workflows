@@ -224,6 +224,7 @@
 [[[ 5cm ]]]
 * »Auf eine neue Basis stellen«
 * Integration von Änderungen aus @master@
+* Vorbereitung für den Merge
 [columns]>
 
 ==== Rebase 'n' Force-Merge -- Resultat ====
