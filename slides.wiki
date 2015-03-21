@@ -378,9 +378,9 @@
 ==== Gitflow -- Erweiterung Nr. 3: Rebase gegen @hotfix@  ====
 
 <[columns]
-[[[ 4cm ]]]
+[[[ 4.5cm ]]]
 <[center]
-<<<images/gitflow-rebase-feature.pdf, scale=0.17>>>
+<<<images/gitflow-rebase-feature.pdf, scale=0.16>>>
 [center]>
 [[[ 7cm ]]]
 * Hotfixes per @rebase@ in Feature-Branches integrieren
